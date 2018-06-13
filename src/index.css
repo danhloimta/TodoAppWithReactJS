@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+  padding: 0;
+  
+}
+i {
+  color: #808080a3;
+  float: right;
+  cursor: pointer;
+  margin-right: 15px;
+}
+i:hover{
+  color: black;
+}
